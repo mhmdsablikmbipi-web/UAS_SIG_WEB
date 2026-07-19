@@ -1,0 +1,1871 @@
+[
+ {
+  "city": "Kabupaten Administrasi Kepulauan Seribu",
+  "district": "Kepulauan Seribu Utara",
+  "village": "Pulau Panggang",
+  "lat": -5.700373,
+  "lon": 106.538299
+ },
+ {
+  "city": "Kabupaten Administrasi Kepulauan Seribu",
+  "district": "Kepulauan Seribu Utara",
+  "village": "Pulau Kelapa",
+  "lat": -5.644741,
+  "lon": 106.560562
+ },
+ {
+  "city": "Kabupaten Administrasi Kepulauan Seribu",
+  "district": "Kepulauan Seribu Utara",
+  "village": "Pulau Harapan",
+  "lat": -5.5016,
+  "lon": 106.550477
+ },
+ {
+  "city": "Kabupaten Administrasi Kepulauan Seribu",
+  "district": "Kepulauan Seribu Selatan.",
+  "village": "Pulau Untung Jawa",
+  "lat": -5.974277,
+  "lon": 106.692658
+ },
+ {
+  "city": "Kabupaten Administrasi Kepulauan Seribu",
+  "district": "Kepulauan Seribu Selatan.",
+  "village": "Pulau Tidung",
+  "lat": -5.798551,
+  "lon": 106.49699
+ },
+ {
+  "city": "Kabupaten Administrasi Kepulauan Seribu",
+  "district": "Kepulauan Seribu Selatan.",
+  "village": "Pulau Pari",
+  "lat": -5.858596,
+  "lon": 106.619091
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Gambir",
+  "village": "Gambir",
+  "lat": -6.176263,
+  "lon": 106.829324
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Gambir",
+  "village": "Cideng",
+  "lat": -6.175987,
+  "lon": 106.809469
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Gambir",
+  "village": "Petojo Utara",
+  "lat": -6.164539,
+  "lon": 106.81605
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Gambir",
+  "village": "Petojo Selatan",
+  "lat": -6.175487,
+  "lon": 106.816671
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Gambir",
+  "village": "Kebon Kelapa",
+  "lat": -6.163945,
+  "lon": 106.824668
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Gambir",
+  "village": "Duri Pulo",
+  "lat": -6.162574,
+  "lon": 106.80468
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Sawah Besar",
+  "village": "Pasar Baru",
+  "lat": -6.162788,
+  "lon": 106.833096
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Sawah Besar",
+  "village": "Karang Anyar",
+  "lat": -6.152917,
+  "lon": 106.829523
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Sawah Besar",
+  "village": "Kartini",
+  "lat": -6.153071,
+  "lon": 106.832449
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Sawah Besar",
+  "village": "Gunung Sahari Utara",
+  "lat": -6.148999,
+  "lon": 106.836319
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Sawah Besar",
+  "village": "Mangga Dua Selatan",
+  "lat": -6.144178,
+  "lon": 106.828737
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Kemayoran",
+  "village": "Kemayoran",
+  "lat": -6.164042,
+  "lon": 106.845659
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Kemayoran",
+  "village": "Kebon Kosong",
+  "lat": -6.158562,
+  "lon": 106.852596
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Kemayoran",
+  "village": "Harapan Mulia",
+  "lat": -6.170501,
+  "lon": 106.856678
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Kemayoran",
+  "village": "Serdang",
+  "lat": -6.16028,
+  "lon": 106.861208
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Kemayoran",
+  "village": "Gunung Sahari Selatan",
+  "lat": -6.158348,
+  "lon": 106.844264
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Kemayoran",
+  "village": "Cempaka Baru",
+  "lat": -6.166813,
+  "lon": 106.861652
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Kemayoran",
+  "village": "Sumur Batu",
+  "lat": -6.164694,
+  "lon": 106.869359
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Kemayoran",
+  "village": "Utan Panjang",
+  "lat": -6.165647,
+  "lon": 106.855634
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Senen",
+  "village": "Senen",
+  "lat": -6.176398,
+  "lon": 106.838259
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Senen",
+  "village": "Kenari",
+  "lat": -6.195007,
+  "lon": 106.846537
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Senen",
+  "village": "Paseban",
+  "lat": -6.19443,
+  "lon": 106.853355
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Senen",
+  "village": "Kramat",
+  "lat": -6.18236,
+  "lon": 106.846304
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Senen",
+  "village": "Kwitang",
+  "lat": -6.183735,
+  "lon": 106.839614
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Senen",
+  "village": "Bungur",
+  "lat": -6.171819,
+  "lon": 106.847966
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Cempaka Putih",
+  "village": "Cempaka Putih Timur",
+  "lat": -6.177547,
+  "lon": 106.871569
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Cempaka Putih",
+  "village": "Cempaka Putih Barat",
+  "lat": -6.1809,
+  "lon": 106.863386
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Cempaka Putih",
+  "village": "Rawasari",
+  "lat": -6.189655,
+  "lon": 106.866682
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Menteng",
+  "village": "Menteng",
+  "lat": -6.202436,
+  "lon": 106.834967
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Menteng",
+  "village": "Pegangsaan",
+  "lat": -6.201552,
+  "lon": 106.848448
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Menteng",
+  "village": "Cikini",
+  "lat": -6.190575,
+  "lon": 106.840668
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Menteng",
+  "village": "Gondangdia",
+  "lat": -6.190957,
+  "lon": 106.82753
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Menteng",
+  "village": "Kebon Sirih",
+  "lat": -6.185214,
+  "lon": 106.832835
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Tanah Abang",
+  "village": "Gelora",
+  "lat": -6.213965,
+  "lon": 106.797762
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Tanah Abang",
+  "village": "Bendungan Hilir",
+  "lat": -6.20798,
+  "lon": 106.808712
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Tanah Abang",
+  "village": "Karet Tengsin",
+  "lat": -6.208106,
+  "lon": 106.817498
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Tanah Abang",
+  "village": "Petamburan",
+  "lat": -6.195987,
+  "lon": 106.805931
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Tanah Abang",
+  "village": "Kebon Melati",
+  "lat": -6.196727,
+  "lon": 106.815708
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Tanah Abang",
+  "village": "Kebon Kacang",
+  "lat": -6.190054,
+  "lon": 106.8173
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Tanah Abang",
+  "village": "Kampung Bali",
+  "lat": -6.184744,
+  "lon": 106.816204
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Johar Baru",
+  "village": "Johar Baru",
+  "lat": -6.183976,
+  "lon": 106.858048
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Johar Baru",
+  "village": "Kampung Rawa",
+  "lat": -6.179553,
+  "lon": 106.855937
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Johar Baru",
+  "village": "Galur",
+  "lat": -6.176284,
+  "lon": 106.855098
+ },
+ {
+  "city": "Kota Administrasi Jakarta Pusat",
+  "district": "Johar Baru",
+  "village": "Tanah Tinggi",
+  "lat": -6.179196,
+  "lon": 106.849953
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Penjaringan",
+  "village": "Penjaringan",
+  "lat": -6.119833,
+  "lon": 106.799428
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Penjaringan",
+  "village": "Kamal Muara",
+  "lat": -6.1006,
+  "lon": 106.735692
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Penjaringan",
+  "village": "Kapuk Muara",
+  "lat": -6.112677,
+  "lon": 106.763196
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Penjaringan",
+  "village": "Pejagalan",
+  "lat": -6.134975,
+  "lon": 106.78324
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Penjaringan",
+  "village": "Pluit",
+  "lat": -6.107616,
+  "lon": 106.783831
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Tanjung Priok",
+  "village": "Tanjung Priok",
+  "lat": -6.109751,
+  "lon": 106.876692
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Tanjung Priok",
+  "village": "Sunter Jaya",
+  "lat": -6.151602,
+  "lon": 106.870307
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Tanjung Priok",
+  "village": "Papanggo",
+  "lat": -6.127828,
+  "lon": 106.868562
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Tanjung Priok",
+  "village": "Sungai Bambu",
+  "lat": -6.125476,
+  "lon": 106.885285
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Tanjung Priok",
+  "village": "Kebon Bawang",
+  "lat": -6.11865,
+  "lon": 106.887204
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Tanjung Priok",
+  "village": "Sunter Agung",
+  "lat": -6.135666,
+  "lon": 106.858485
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Tanjung Priok",
+  "village": "Warakas",
+  "lat": -6.120953,
+  "lon": 106.877606
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Koja",
+  "village": "Koja",
+  "lat": -6.109406,
+  "lon": 106.900472
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Koja",
+  "village": "Tugu Utara",
+  "lat": -6.12446,
+  "lon": 106.914497
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Koja",
+  "village": "Lagoa",
+  "lat": -6.113527,
+  "lon": 106.908939
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Koja",
+  "village": "Rawa Badak Utara",
+  "lat": -6.119987,
+  "lon": 106.897584
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Koja",
+  "village": "Tugu Selatan",
+  "lat": -6.136873,
+  "lon": 106.911539
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Koja",
+  "village": "Rawa Badak Selatan",
+  "lat": -6.132446,
+  "lon": 106.898431
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Cilincing",
+  "village": "Cilincing",
+  "lat": -6.107463,
+  "lon": 106.94668
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Cilincing",
+  "village": "Sukapura",
+  "lat": -6.149254,
+  "lon": 106.923872
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Cilincing",
+  "village": "Marunda",
+  "lat": -6.111046,
+  "lon": 106.959116
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Cilincing",
+  "village": "Kalibaru",
+  "lat": -6.102601,
+  "lon": 106.919256
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Cilincing",
+  "village": "Semper Timur",
+  "lat": -6.116071,
+  "lon": 106.933552
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Cilincing",
+  "village": "Rorotan",
+  "lat": -6.150842,
+  "lon": 106.956416
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Cilincing",
+  "village": "Semper Barat",
+  "lat": -6.12559,
+  "lon": 106.921901
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Pademangan",
+  "village": "Pademangan Timur",
+  "lat": -6.140719,
+  "lon": 106.850448
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Pademangan",
+  "village": "Pademangan Barat",
+  "lat": -6.13328,
+  "lon": 106.836237
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Pademangan",
+  "village": "Ancol",
+  "lat": -6.125168,
+  "lon": 106.839637
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Kelapa Gading",
+  "village": "Kelapa Gading Timur",
+  "lat": -6.168354,
+  "lon": 106.904585
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Kelapa Gading",
+  "village": "Pegangsaan Dua",
+  "lat": -6.158106,
+  "lon": 106.914646
+ },
+ {
+  "city": "Kota Administrasi Jakarta Utara",
+  "district": "Kelapa Gading",
+  "village": "Kelapa Gading Barat",
+  "lat": -6.154442,
+  "lon": 106.897559
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Cengkareng",
+  "village": "Cengkareng Barat",
+  "lat": -6.135474,
+  "lon": 106.723102
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Cengkareng",
+  "village": "Duri Kosambi",
+  "lat": -6.174939,
+  "lon": 106.716956
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Cengkareng",
+  "village": "Rawa Buaya",
+  "lat": -6.168164,
+  "lon": 106.737594
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Cengkareng",
+  "village": "Kedaung Kali Angke",
+  "lat": -6.150312,
+  "lon": 106.759246
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Cengkareng",
+  "village": "Kapuk",
+  "lat": -6.143194,
+  "lon": 106.751896
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Cengkareng",
+  "village": "Cengkareng Timur",
+  "lat": -6.143787,
+  "lon": 106.739426
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Grogol Petamburan",
+  "village": "Grogol",
+  "lat": -6.161454,
+  "lon": 106.793553
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Grogol Petamburan",
+  "village": "Tanjung Duren Utara",
+  "lat": -6.17204,
+  "lon": 106.784298
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Grogol Petamburan",
+  "village": "Tomang",
+  "lat": -6.172173,
+  "lon": 106.795134
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Grogol Petamburan",
+  "village": "Jelambar",
+  "lat": -6.159343,
+  "lon": 106.785397
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Grogol Petamburan",
+  "village": "Tanjung Duren Selatan",
+  "lat": -6.179734,
+  "lon": 106.789899
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Grogol Petamburan",
+  "village": "Jelambar Baru",
+  "lat": -6.151596,
+  "lon": 106.788368
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Grogol Petamburan",
+  "village": "Wijaya Kusuma",
+  "lat": -6.156604,
+  "lon": 106.777274
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Taman Sari",
+  "village": "Taman Sari",
+  "lat": -6.153861,
+  "lon": 106.824313
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Taman Sari",
+  "village": "Krukut",
+  "lat": -6.155908,
+  "lon": 106.814647
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Taman Sari",
+  "village": "Maphar",
+  "lat": -6.155262,
+  "lon": 106.821327
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Taman Sari",
+  "village": "Tangki",
+  "lat": -6.145786,
+  "lon": 106.822898
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Taman Sari",
+  "village": "Mangga Besar",
+  "lat": -6.144664,
+  "lon": 106.818902
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Taman Sari",
+  "village": "Keagungan",
+  "lat": -6.151817,
+  "lon": 106.814455
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Taman Sari",
+  "village": "Glodok",
+  "lat": -6.145125,
+  "lon": 106.813958
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Taman Sari",
+  "village": "Pinangsia",
+  "lat": -6.138524,
+  "lon": 106.816773
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Tambora",
+  "village": "Tambora",
+  "lat": -6.144893,
+  "lon": 106.808983
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Tambora",
+  "village": "Kali Anyar",
+  "lat": -6.157302,
+  "lon": 106.799306
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Tambora",
+  "village": "Duri Utara",
+  "lat": -6.154332,
+  "lon": 106.804451
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Tambora",
+  "village": "Tanah Sereal",
+  "lat": -6.154947,
+  "lon": 106.810724
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Tambora",
+  "village": "Krendang",
+  "lat": -6.151008,
+  "lon": 106.803656
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Tambora",
+  "village": "Jembatan Besi",
+  "lat": -6.151342,
+  "lon": 106.797574
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Tambora",
+  "village": "Angke",
+  "lat": -6.145963,
+  "lon": 106.796192
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Tambora",
+  "village": "Jembatan Lima",
+  "lat": -6.145226,
+  "lon": 106.803933
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Tambora",
+  "village": "Pekojan",
+  "lat": -6.137437,
+  "lon": 106.804802
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Tambora",
+  "village": "Roa Malaka",
+  "lat": -6.13645,
+  "lon": 106.810976
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Tambora",
+  "village": "Duri Selatan",
+  "lat": -6.159136,
+  "lon": 106.804853
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kebon Jeruk",
+  "village": "Kebon Jeruk",
+  "lat": -6.196108,
+  "lon": 106.768256
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kebon Jeruk",
+  "village": "Sukabumi Utara",
+  "lat": -6.210456,
+  "lon": 106.776743
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kebon Jeruk",
+  "village": "Sukabumi Selatan",
+  "lat": -6.223186,
+  "lon": 106.770941
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kebon Jeruk",
+  "village": "Kelapa Dua",
+  "lat": -6.209407,
+  "lon": 106.768998
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kebon Jeruk",
+  "village": "Duri Kepa",
+  "lat": -6.174541,
+  "lon": 106.77417
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kebon Jeruk",
+  "village": "Kedoya Utara",
+  "lat": -6.167864,
+  "lon": 106.757878
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kebon Jeruk",
+  "village": "Kedoya Selatan",
+  "lat": -6.181246,
+  "lon": 106.756926
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kalideres",
+  "village": "Kalideres",
+  "lat": -6.147381,
+  "lon": 106.697592
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kalideres",
+  "village": "Semanan",
+  "lat": -6.167702,
+  "lon": 106.702416
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kalideres",
+  "village": "Tegal Alur",
+  "lat": -6.11593,
+  "lon": 106.715091
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kalideres",
+  "village": "Kamal",
+  "lat": -6.108234,
+  "lon": 106.698176
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kalideres",
+  "village": "Pegadungan",
+  "lat": -6.132494,
+  "lon": 106.70003
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Pal Merah",
+  "village": "Palmerah",
+  "lat": -6.201286,
+  "lon": 106.790675
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Pal Merah",
+  "village": "Slipi",
+  "lat": -6.194913,
+  "lon": 106.80247
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Pal Merah",
+  "village": "Kota Bambu Utara",
+  "lat": -6.183278,
+  "lon": 106.805474
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Pal Merah",
+  "village": "Jatipulo",
+  "lat": -6.180504,
+  "lon": 106.804566
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Pal Merah",
+  "village": "Kemanggisan",
+  "lat": -6.191036,
+  "lon": 106.79192
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Pal Merah",
+  "village": "Kota Bambu Selatan",
+  "lat": -6.186847,
+  "lon": 106.805222
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kembangan",
+  "village": "Kembangan Utara",
+  "lat": -6.171595,
+  "lon": 106.742942
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kembangan",
+  "village": "Meruya Utara",
+  "lat": -6.197452,
+  "lon": 106.743601
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kembangan",
+  "village": "Meruya Selatan",
+  "lat": -6.20813,
+  "lon": 106.732053
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kembangan",
+  "village": "Srengseng",
+  "lat": -6.210197,
+  "lon": 106.760083
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kembangan",
+  "village": "Joglo",
+  "lat": -6.219964,
+  "lon": 106.739026
+ },
+ {
+  "city": "Kota Administrasi Jakarta Barat",
+  "district": "Kembangan",
+  "village": "Kembangan Selatan",
+  "lat": -6.184015,
+  "lon": 106.734834
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Tebet",
+  "village": "Tebet Timur",
+  "lat": -6.233786,
+  "lon": 106.854732
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Tebet",
+  "village": "Tebet Barat",
+  "lat": -6.234932,
+  "lon": 106.848898
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Tebet",
+  "village": "Menteng Dalam",
+  "lat": -6.232216,
+  "lon": 106.840598
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Tebet",
+  "village": "Kebon Baru",
+  "lat": -6.23415,
+  "lon": 106.862952
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Tebet",
+  "village": "Bukit Duri",
+  "lat": -6.220151,
+  "lon": 106.858361
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Tebet",
+  "village": "Manggarai Selatan",
+  "lat": -6.21906,
+  "lon": 106.848474
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Tebet",
+  "village": "Manggarai",
+  "lat": -6.214114,
+  "lon": 106.850606
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Setiabudi",
+  "village": "Setia Budi",
+  "lat": -6.208124,
+  "lon": 106.826299
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Setiabudi",
+  "village": "Karet Semanggi",
+  "lat": -6.223225,
+  "lon": 106.819503
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Setiabudi",
+  "village": "Karet Kuningan",
+  "lat": -6.219915,
+  "lon": 106.829394
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Setiabudi",
+  "village": "Karet",
+  "lat": -6.213717,
+  "lon": 106.827034
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Setiabudi",
+  "village": "Menteng Atas",
+  "lat": -6.217712,
+  "lon": 106.838859
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Setiabudi",
+  "village": "Pasar Manggis",
+  "lat": -6.210769,
+  "lon": 106.841572
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Setiabudi",
+  "village": "Guntur",
+  "lat": -6.208033,
+  "lon": 106.833307
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Setiabudi",
+  "village": "Kuningan Timur",
+  "lat": -6.232508,
+  "lon": 106.831403
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Mampang Prapatan",
+  "village": "Mampang Prapatan",
+  "lat": -6.242697,
+  "lon": 106.827044
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Mampang Prapatan",
+  "village": "Bangka",
+  "lat": -6.262503,
+  "lon": 106.818917
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Mampang Prapatan",
+  "village": "Pela Mampang",
+  "lat": -6.248597,
+  "lon": 106.818073
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Mampang Prapatan",
+  "village": "Tegal Parang",
+  "lat": -6.249414,
+  "lon": 106.829689
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Mampang Prapatan",
+  "village": "Kuningan Barat",
+  "lat": -6.235785,
+  "lon": 106.820797
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pasar Minggu",
+  "village": "Pasar Minggu",
+  "lat": -6.288107,
+  "lon": 106.837377
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pasar Minggu",
+  "village": "Jati Padang",
+  "lat": -6.288511,
+  "lon": 106.833443
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pasar Minggu",
+  "village": "Cilandak Timur",
+  "lat": -6.293548,
+  "lon": 106.81055
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pasar Minggu",
+  "village": "Ragunan",
+  "lat": -6.298623,
+  "lon": 106.822311
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pasar Minggu",
+  "village": "Pejaten Timur",
+  "lat": -6.281548,
+  "lon": 106.849733
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pasar Minggu",
+  "village": "Pejaten Barat",
+  "lat": -6.27205,
+  "lon": 106.831486
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pasar Minggu",
+  "village": "Kebagusan",
+  "lat": -6.312484,
+  "lon": 106.831245
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Lama",
+  "village": "Kebayoran Lama Utara",
+  "lat": -6.245863,
+  "lon": 106.777733
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Lama",
+  "village": "Pondok Pinang",
+  "lat": -6.276035,
+  "lon": 106.776928
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Lama",
+  "village": "Cipulir",
+  "lat": -6.237557,
+  "lon": 106.770339
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Lama",
+  "village": "Grogol Utara",
+  "lat": -6.214027,
+  "lon": 106.787265
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Lama",
+  "village": "Grogol Selatan",
+  "lat": -6.230072,
+  "lon": 106.776437
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Lama",
+  "village": "Kebayoran Lama Selatan",
+  "lat": -6.252733,
+  "lon": 106.782428
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Cilandak",
+  "village": "Cilandak Barat",
+  "lat": -6.290904,
+  "lon": 106.800768
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Cilandak",
+  "village": "Lebak Bulus",
+  "lat": -6.303464,
+  "lon": 106.778528
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Cilandak",
+  "village": "Pondok Labu",
+  "lat": -6.31005,
+  "lon": 106.798535
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Cilandak",
+  "village": "Gandaria Selatan",
+  "lat": -6.269817,
+  "lon": 106.791667
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Cilandak",
+  "village": "Cipete Selatan",
+  "lat": -6.273086,
+  "lon": 106.808245
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Baru",
+  "village": "Melawai",
+  "lat": -6.247735,
+  "lon": 106.800793
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Baru",
+  "village": "Gunung",
+  "lat": -6.235371,
+  "lon": 106.790518
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Baru",
+  "village": "Kramat Pela",
+  "lat": -6.245093,
+  "lon": 106.789668
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Baru",
+  "village": "Selong",
+  "lat": -6.232417,
+  "lon": 106.806306
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Baru",
+  "village": "Rawa Barat",
+  "lat": -6.235928,
+  "lon": 106.81574
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Baru",
+  "village": "Senayan",
+  "lat": -6.229931,
+  "lon": 106.810881
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Baru",
+  "village": "Pulo",
+  "lat": -6.252738,
+  "lon": 106.803444
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Baru",
+  "village": "Petogogan",
+  "lat": -6.244935,
+  "lon": 106.811254
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Baru",
+  "village": "Gandaria Utara",
+  "lat": -6.256798,
+  "lon": 106.789538
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Kebayoran Baru",
+  "village": "Cipete Utara",
+  "lat": -6.262025,
+  "lon": 106.808444
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pancoran",
+  "village": "Pancoran",
+  "lat": -6.248105,
+  "lon": 106.839203
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pancoran",
+  "village": "Kalibata",
+  "lat": -6.266415,
+  "lon": 106.833921
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pancoran",
+  "village": "Rawajati",
+  "lat": -6.259993,
+  "lon": 106.856036
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pancoran",
+  "village": "Duren Tiga",
+  "lat": -6.255692,
+  "lon": 106.831803
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pancoran",
+  "village": "Pengadegan",
+  "lat": -6.249575,
+  "lon": 106.855701
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pancoran",
+  "village": "Cikoko",
+  "lat": -6.245521,
+  "lon": 106.854697
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Jagakarsa",
+  "village": "Jagakarsa",
+  "lat": -6.324441,
+  "lon": 106.817248
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Jagakarsa",
+  "village": "Srengseng Sawah",
+  "lat": -6.34951,
+  "lon": 106.823768
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Jagakarsa",
+  "village": "Ciganjur",
+  "lat": -6.334951,
+  "lon": 106.808728
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Jagakarsa",
+  "village": "Lenteng Agung",
+  "lat": -6.320228,
+  "lon": 106.836464
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Jagakarsa",
+  "village": "Tanjung Barat",
+  "lat": -6.307293,
+  "lon": 106.849593
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Jagakarsa",
+  "village": "Cipedak",
+  "lat": -6.351283,
+  "lon": 106.800735
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pesanggrahan",
+  "village": "Pesanggrahan",
+  "lat": -6.25599,
+  "lon": 106.759078
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pesanggrahan",
+  "village": "Bintaro",
+  "lat": -6.271282,
+  "lon": 106.766388
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pesanggrahan",
+  "village": "Petukangan Utara",
+  "lat": -6.229362,
+  "lon": 106.751234
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pesanggrahan",
+  "village": "Petukangan Selatan",
+  "lat": -6.244489,
+  "lon": 106.753347
+ },
+ {
+  "city": "Kota Administrasi Jakarta Selatan",
+  "district": "Pesanggrahan",
+  "village": "Ulujami",
+  "lat": -6.234445,
+  "lon": 106.76421
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Matraman",
+  "village": "Pisangan Baru",
+  "lat": -6.211073,
+  "lon": 106.868395
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Matraman",
+  "village": "Utan Kayu Utara",
+  "lat": -6.196787,
+  "lon": 106.868418
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Matraman",
+  "village": "Kayu Manis",
+  "lat": -6.203853,
+  "lon": 106.86296
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Matraman",
+  "village": "Palmeriam",
+  "lat": -6.205258,
+  "lon": 106.859678
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Matraman",
+  "village": "Kebon Manggis",
+  "lat": -6.20631,
+  "lon": 106.855283
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Matraman",
+  "village": "Utan Kayu Selatan",
+  "lat": -6.203103,
+  "lon": 106.86835
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Pulogadung",
+  "village": "Pulo Gadung",
+  "lat": -6.183069,
+  "lon": 106.900124
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Pulogadung",
+  "village": "Pisangan Timur",
+  "lat": -6.206462,
+  "lon": 106.880631
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Pulogadung",
+  "village": "Cipinang",
+  "lat": -6.209293,
+  "lon": 106.892483
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Pulogadung",
+  "village": "Jatinegara Kaum",
+  "lat": -6.199889,
+  "lon": 106.901593
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Pulogadung",
+  "village": "Rawamangun",
+  "lat": -6.197193,
+  "lon": 106.881111
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Pulogadung",
+  "village": "Kayu Putih",
+  "lat": -6.180632,
+  "lon": 106.883301
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Pulogadung",
+  "village": "Jati",
+  "lat": -6.195202,
+  "lon": 106.899401
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Jatinegara",
+  "village": "Kampung Melayu",
+  "lat": -6.218411,
+  "lon": 106.861445
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Jatinegara",
+  "village": "Bidara Cina",
+  "lat": -6.233763,
+  "lon": 106.866641
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Jatinegara",
+  "village": "Bali Mester",
+  "lat": -6.218337,
+  "lon": 106.866274
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Jatinegara",
+  "village": "Rawa Bunga",
+  "lat": -6.217894,
+  "lon": 106.868662
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Jatinegara",
+  "village": "Cipinang Cempedak",
+  "lat": -6.236197,
+  "lon": 106.87336
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Jatinegara",
+  "village": "Cipinang Muara",
+  "lat": -6.226679,
+  "lon": 106.890986
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Jatinegara",
+  "village": "Cipinang Besar Selatan",
+  "lat": -6.22782,
+  "lon": 106.882521
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Jatinegara",
+  "village": "Cipinang Besar Utara",
+  "lat": -6.220398,
+  "lon": 106.880438
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Kramatjati",
+  "village": "Kramatjati",
+  "lat": -6.27256,
+  "lon": 106.870675
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Kramatjati",
+  "village": "Tengah",
+  "lat": -6.288241,
+  "lon": 106.864797
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Kramatjati",
+  "village": "Dukuh",
+  "lat": -6.294155,
+  "lon": 106.875805
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Kramatjati",
+  "village": "Batu Ampar",
+  "lat": -6.28146,
+  "lon": 106.861789
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Kramatjati",
+  "village": "Balekambang",
+  "lat": -6.281511,
+  "lon": 106.852941
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Kramatjati",
+  "village": "Cililitan",
+  "lat": -6.262926,
+  "lon": 106.861902
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Kramatjati",
+  "village": "Cawang",
+  "lat": -6.252739,
+  "lon": 106.86438
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Pasar Rebo",
+  "village": "Gedong",
+  "lat": -6.30067,
+  "lon": 106.85856
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Pasar Rebo",
+  "village": "Baru",
+  "lat": -6.323116,
+  "lon": 106.847065
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Pasar Rebo",
+  "village": "Cijantung",
+  "lat": -6.321991,
+  "lon": 106.858571
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Pasar Rebo",
+  "village": "Kalisari",
+  "lat": -6.337016,
+  "lon": 106.852201
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Pasar Rebo",
+  "village": "Pekayon",
+  "lat": -6.345644,
+  "lon": 106.863869
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Cakung",
+  "village": "Jatinegara",
+  "lat": -6.202903,
+  "lon": 106.921583
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Cakung",
+  "village": "Rawa Terate",
+  "lat": -6.180409,
+  "lon": 106.923813
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Cakung",
+  "village": "Penggilingan",
+  "lat": -6.199835,
+  "lon": 106.934825
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Cakung",
+  "village": "Cakung Timur",
+  "lat": -6.171279,
+  "lon": 106.955567
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Cakung",
+  "village": "Pulo Gebang",
+  "lat": -6.202426,
+  "lon": 106.953375
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Cakung",
+  "village": "Ujung Menteng",
+  "lat": -6.188987,
+  "lon": 106.962529
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Cakung",
+  "village": "Cakung Barat",
+  "lat": -6.177421,
+  "lon": 106.931517
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Duren Sawit",
+  "village": "Duren Sawit",
+  "lat": -6.233333,
+  "lon": 106.915871
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Duren Sawit",
+  "village": "Pondok Bambu",
+  "lat": -6.233877,
+  "lon": 106.899566
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Duren Sawit",
+  "village": "Klender",
+  "lat": -6.219772,
+  "lon": 106.906754
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Duren Sawit",
+  "village": "Pondok Kelapa",
+  "lat": -6.2417,
+  "lon": 106.93079
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Duren Sawit",
+  "village": "Malaka Sari",
+  "lat": -6.225554,
+  "lon": 106.928152
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Duren Sawit",
+  "village": "Malaka Jaya",
+  "lat": -6.224681,
+  "lon": 106.935134
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Duren Sawit",
+  "village": "Pondok Kopi",
+  "lat": -6.227776,
+  "lon": 106.940451
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Makasar",
+  "village": "Makasar",
+  "lat": -6.277415,
+  "lon": 106.879289
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Makasar",
+  "village": "Pinangranti",
+  "lat": -6.286218,
+  "lon": 106.884189
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Makasar",
+  "village": "Kebon Pala",
+  "lat": -6.253584,
+  "lon": 106.879772
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Makasar",
+  "village": "Halim Perdana Kusuma",
+  "lat": -6.261712,
+  "lon": 106.892963
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Makasar",
+  "village": "Cipinang Melayu",
+  "lat": -6.250555,
+  "lon": 106.905441
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Ciracas",
+  "village": "Ciracas",
+  "lat": -6.327921,
+  "lon": 106.878529
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Ciracas",
+  "village": "Cibubur",
+  "lat": -6.358099,
+  "lon": 106.880392
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Ciracas",
+  "village": "Kelapa Dua Wetan",
+  "lat": -6.338914,
+  "lon": 106.882522
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Ciracas",
+  "village": "Susukan",
+  "lat": -6.31212,
+  "lon": 106.869828
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Ciracas",
+  "village": "Rambutan",
+  "lat": -6.302368,
+  "lon": 106.875606
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Cipayung",
+  "village": "Cipayung",
+  "lat": -6.328981,
+  "lon": 106.89441
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Cipayung",
+  "village": "Cilangkap",
+  "lat": -6.336531,
+  "lon": 106.910065
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Cipayung",
+  "village": "Pondok Ranggon",
+  "lat": -6.355388,
+  "lon": 106.910217
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Cipayung",
+  "village": "Munjul",
+  "lat": -6.350822,
+  "lon": 106.895267
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Cipayung",
+  "village": "Setu",
+  "lat": -6.313348,
+  "lon": 106.916527
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Cipayung",
+  "village": "Bambu Apus",
+  "lat": -6.313583,
+  "lon": 106.904871
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Cipayung",
+  "village": "Lubang Buaya",
+  "lat": -6.294887,
+  "lon": 106.909253
+ },
+ {
+  "city": "Kota Administrasi Jakarta Timur",
+  "district": "Cipayung",
+  "village": "Ceger",
+  "lat": -6.309296,
+  "lon": 106.893463
+ }
+]

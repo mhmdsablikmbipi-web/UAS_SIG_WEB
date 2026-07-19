@@ -1,0 +1,42 @@
+{
+  "total_tmu": 34,
+  "tmu_kritis": 17,
+  "tmu_waspada": 12,
+  "tmu_tersedia": 5,
+  "total_rptra": 648,
+  "rptra_lengkap": 216,
+  "rptra_terbatas": 432,
+  "rptra_dalam_buffer_tmu": 85,
+  "per_wilayah": {
+    "KOTA ADM. JAKARTA BARAT": {
+      "jumlah_tmu": 8,
+      "tmu_kritis": 2,
+      "jumlah_rptra": 116,
+      "rptra_dalam_buffer_tmu": 16
+    },
+    "KOTA ADM. JAKARTA PUSAT": {
+      "jumlah_tmu": 3,
+      "tmu_kritis": 3,
+      "jumlah_rptra": 100,
+      "rptra_dalam_buffer_tmu": 7
+    },
+    "KOTA ADM. JAKARTA SELATAN": {
+      "jumlah_tmu": 8,
+      "tmu_kritis": 5,
+      "jumlah_rptra": 124,
+      "rptra_dalam_buffer_tmu": 15
+    },
+    "KOTA ADM. JAKARTA TIMUR": {
+      "jumlah_tmu": 10,
+      "tmu_kritis": 5,
+      "jumlah_rptra": 136,
+      "rptra_dalam_buffer_tmu": 20
+    },
+    "KOTA ADM. JAKARTA UTARA": {
+      "jumlah_tmu": 5,
+      "tmu_kritis": 2,
+      "jumlah_rptra": 154,
+      "rptra_dalam_buffer_tmu": 27
+    }
+  }
+}
